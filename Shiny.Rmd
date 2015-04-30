@@ -100,6 +100,14 @@ renderPlot({
 
 </div>
 
+## Pursuade Others|Static Example
+
+<div class="centered">
+
+![Image](img/murderIE.png)
+
+</div>
+
 ## Blather on about the Shiny App
 
 - UI shields you from JS / CSS / HTML (*easy to build*)
@@ -440,7 +448,7 @@ Click **Publish**
 - See How Versatile, Shiny Really Is...
 - Peek into the Future to See What Shiny Will Offer...
 
-<https://yxes.shinyapps.io/Shiny_Presentation/#33>
+<https://yxes.github.io/Shiny_Presentation/#34>
 
 ## Finding Information for Expanding Your App
 
@@ -460,7 +468,7 @@ Click **Publish**
 - Stand-Alone Applications:
   <http://yxes.shinyapps.io/Capstone/>
 - Your personal Blog if you use... &lt;iframe...&gt;&lt;/iframe&gt;:
-  <https://www.statthis.com/>
+  <http://www.statthis.com/>
 - RMarkdown Files:
   <https://yxes.shinyapps.io/Officer_Involved_Shootings_Apr_2015/>
 
@@ -474,7 +482,7 @@ Click **Publish**
 
 ### This Presention
 - Live: <http://yxes.shinyapps.io/Shiny_Presentation>
-- HTML View: <https://yxes.github.com/Shiny_Presentation/>
+- HTML View: <https://yxes.github.io/Shiny_Presentation/>
 - GitHub Source: <https://github.com/yxes/Shiny_Presentation>
 
 ### Officer Involved Shootings Example
